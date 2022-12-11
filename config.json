@@ -1,0 +1,250 @@
+{
+  "gap": 20,
+  "colWidth": 200,
+  "hotkeyLeader": ":",
+  
+  "mappings": {
+    "suggestionNext": "ctrl+j, alt+j, ctrl+о, alt+о, ArrowDown",
+    "suggestionPrev": "ctrl+k, alt+k, ctrl+л, alt+л, ArrowUp"
+  },
+
+  "categories": [
+    {
+      "name": "Social",
+      "links": [
+        {
+          "name": "VK",
+          "url": "vk.com/im",
+          "hotkey": "vk"
+        },
+        {
+          "name": "Telegram",
+          "url": "web.telegram.org/",
+          "hotkey": "tg"
+        },
+        {
+          "name": "Youtube",
+          "url": "https://youtube.com/",
+          "hotkey": "yt"
+        },
+        {
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "hotkey": "gm"
+        },
+        {
+          "name": "Outlook",
+          "url": "https://outlook.office.com/mail/"
+        },
+        {
+          "name": "YaMail",
+          "url": "https://mail.yandex.ru/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "linkedin.com",
+          "hotkey": "li"
+        },
+        {
+          "name": "WhatsApp",
+          "url": "https://web.whatsapp.com/",
+          "hotkey": "wa"
+        }
+      ]
+    },
+    {
+      "name": "Code",
+      "links": [
+        {
+          "name": "BundlePhobia",
+          "url": "https://bundlephobia.com/",
+          "hotkey": "bp"
+        },
+        {
+          "name": "CanInlude",
+          "url": "https://caninclude.glitch.me/",
+          "hotkey": "ci"
+        },
+        {
+          "name": "CanIUse",
+          "url": "https://caniuse.com/",
+          "hotkey": "cu"
+        },
+        {
+          "name": "NPM",
+          "url": "https://www.npmjs.com/",
+          "hotkey": "npm"
+        },
+        {
+          "name": "Tailwind",
+          "url": "https://tailwindcss.com/",
+          "hotkey": "tw"
+        },
+        {
+          "name": "Prettier_Online",
+          "url": "https://prettier.io/playground/",
+          "hotkey": "pp"
+        },
+        {
+          "name": "Source_Mapper",
+          "url": "https://sourcemaps.info/",
+          "hotkey": "so"
+        },
+        {
+          "name": "Codewars",
+          "url": "https://www.codewars.com",
+          "hotkey": "cw"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/idefant",
+          "hotkey": "gh"
+        },
+        {
+          "name": "Netlify",
+          "url": "app.netlify.com",
+          "hotkey": "nf"
+        },
+        {
+          "name": "Figma",
+          "url": "www.figma.com",
+          "hotkey": "fg"
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/",
+          "hotkey": "trl"
+        },
+        {
+          "name": "YaTracker",
+          "url": "https://tracker.yandex.ru/pages/my"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "links": [
+        {
+          "name": "Translate",
+          "url": "translate.yandex.ru",
+          "hotkey": "tr"
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com",
+          "hotkey": "ew"
+        },
+        {
+          "name": "Pendulums",
+          "url": "https://app.pendulums.io/dashboard",
+          "hotkey": "pd"
+        },
+        {
+          "name": "SnapDrop",
+          "url": "https://snapdrop.net/",
+          "hotkey": "sd"
+        },
+        {
+          "name": "ShareDrop",
+          "url": "https://www.sharedrop.io/"
+        },
+        {
+          "name": "XMind",
+          "url": "https://xmind.works/",
+          "hotkey": "mm"
+        },
+        {
+          "name": "GDrive",
+          "url": "https://drive.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "Study",
+      "links": [
+        {
+          "name": "Modeus",
+          "url": "https://urfu.modeus.org/",
+          "hotkey": "md"
+        },
+        {
+          "name": "OpenEdu",
+          "url": "https://openedu.ru/my/#timeline=current"
+        },
+        {
+          "name": "IStudent",
+          "url": "https://istudent.urfu.ru/"
+        },
+        {
+          "name": "Exam1",
+          "url": "https://exam1.urfu.ru/"
+        },
+        {
+          "name": "Elearn",
+          "url": "https://elearn.urfu.ru/my/"
+        },
+        {
+          "name": "TeamProject",
+          "url": "https://teamproject.urfu.ru/"
+        },
+        {
+          "name": "SkillFactory",
+          "url": "https://lms.skillfactory.ru/dashboard",
+          "hotkey": "sf"
+        }
+      ]
+    },
+    {
+      "name": "Info",
+      "links": [
+        {
+          "name": "YaPogoda",
+          "url": "https://yandex.ru/pogoda/yekaterinburg",
+          "hotkey": "yp"
+        },
+        {
+          "name": "YaMaps",
+          "url": "https://yandex.ru/maps"
+        }
+      ]
+    },
+    {
+      "name": "Selfhosted",
+      "links": [
+        {
+          "name": "Syncthing",
+          "url": "http://127.0.0.1:8384/",
+          "hotkey": "ss"
+        },
+        {
+          "name": "YAFM",
+          "url": "https://yafm.idefant.ru",
+          "hotkey": "fm"
+        },
+        {
+          "name": "AdGuard",
+          "url": "https://adguard.idefant.ru/"
+        },
+        {
+          "name": "Traefik",
+          "url": "https://traefik.idefant.ru/"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "links": [
+        {
+          "name": "Music_For_Programming",
+          "url": "https://musicforprogramming.net/",
+          "hotkey": "mp"
+        }
+      ]
+    }
+  ]
+}
