@@ -1,6 +1,9 @@
-gap: 20
-colWidth: 200
 hotkeyLeader: ':'
+
+columns:
+  gap: 20
+  width: 200
+  maxCount: 6
 
 mappings:
   suggestionNext: 'ctrl+j, alt+j, ArrowDown'
@@ -9,7 +12,7 @@ mappings:
 categories:
   - name: About_Project
     links:
-      - { name: Repo, url: https://github.com/idefant/vanilla-startpage, hotkey: gh }
+      - { name: Repo, url: https://github.com/idefant/nerd-startpage, hotkey: gh }
       - { name: My_Github_Profile, url: https://github.com/idefant }
       - { name: My_Website, url: https://idefant.ru }
   - name: Social
@@ -28,6 +31,20 @@ categories:
       - { name: Tailwind, url: https://tailwindcss.com/, hotkey: tw }
       - { name: Codewars, url: https://www.codewars.com, hotkey: cw }
       - { name: Colab, url: https://colab.research.google.com/ }
+  - name: Work
+    links:
+      - { name: Mail, url: 'gmail.com' }
+      - { name: Trello, url: 'trello.com' }
+      - { name: Figma, url: 'figma.com' }
+  - name: Reddit
+    links:
+      - { name: r/fdroid }
+      - { name: r/fossdroid }
+      - { name: r/neovim }
+      - { name: r/unixporn }
+      - { name: r/opensource }
+      - { name: r/selfhosted }
+      - { name: r/startpages }
   - name: Tools
     links:
       - { name: Excalidraw, url: https://excalidraw.com, hotkey: ew }
