@@ -35,7 +35,7 @@ categories:
       - { name: Netlify, url: app.netlify.com, hotkey: nf }
       - { name: Figma, url: www.figma.com, hotkey: fg }
       - { name: Trello, url: "https://trello.com/", hotkey: trl }
-      - { name: YaTracker, url: "https://tracker.yandex.ru/pages/my" }
+      - { name: YaTracker, url: "https://tracker.yandex.ru/issues/my-issues" }
 
   - name: Tools
     links:
